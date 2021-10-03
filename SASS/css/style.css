@@ -1,0 +1,20 @@
+body {
+  background-color: darkgrey; }
+
+.max-width {
+  max-width: 400px; }
+
+input {
+  outline: unset; }
+
+.border-radius {
+  border-radius: 20px; }
+
+.row, .right-form {
+  background-color: #f8f5fa; }
+
+@media screen and (max-width: 765px) {
+  .row {
+    background: none !important; } }
+
+/*# sourceMappingURL=style.css.map */
