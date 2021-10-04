@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32a5738d-b267-4427-8bbe-97a2f81aaa81" name="Changes" comment="" />
+    <list default="true" id="32a5738d-b267-4427-8bbe-97a2f81aaa81" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SASS/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/SASS/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SASS/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/SASS/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SASS/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/SASS/css/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SASS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/SASS/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../training team2" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -36,6 +42,7 @@
       <updated>1633055932735</updated>
       <workItem from="1633055933911" duration="1271000" />
       <workItem from="1633281142741" duration="1917000" />
+      <workItem from="1633309994127" duration="4031000" />
     </task>
     <servers />
   </component>
