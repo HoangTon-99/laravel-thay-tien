@@ -6,7 +6,10 @@
       <change beforePath="$PROJECT_DIR$/SASS/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/SASS/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SASS/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/SASS/css/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SASS/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/SASS/css/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SASS/img/img-left-login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SASS/img/bg-right-slide3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SASS/img/choose-class.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SASS/img/col-slide2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SASS/img/img-choose-class.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/SASS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/SASS/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/xampp/htdocs/thong_training" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -54,6 +57,10 @@
       <workItem from="1633949477136" duration="644000" />
       <workItem from="1633964147820" duration="1831000" />
       <workItem from="1634126235041" duration="7598000" />
+      <workItem from="1634282901777" duration="365000" />
+      <workItem from="1634479141723" duration="4239000" />
+      <workItem from="1634483419505" duration="10139000" />
+      <workItem from="1634705285232" duration="2166000" />
     </task>
     <servers />
   </component>

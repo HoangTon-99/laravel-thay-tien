@@ -51,13 +51,14 @@ nav {
   position: absolute;
   top: 0;
   right: 0;
-  background: #262626;
-  height: 50px;
+  background: #4f9a95;
+  height: 45px;
   width: 50px; }
 
 @media only screen and (max-width: 798px) {
   .nav-mobile {
-    display: block; }
+    display: block;
+    margin-top: 18px; }
 
   nav {
     width: 100%;
@@ -103,7 +104,7 @@ nav {
     #nav-toggle.active span:after {
       transform: rotate(-45deg); }
 
-.choose-class, .slide3 {
+.bg-color {
   background-color: #4f9a95; }
 
 .text-color {
@@ -117,5 +118,15 @@ nav {
 
 .content-center {
   margin: 25% 30%; }
+
+.size-2em {
+  font-size: 2em; }
+
+a:hover {
+  cursor: pointer; }
+
+.slide3 a:hover, .slide4 a:hover, .slide5 a:hover {
+  background-color: grey !important;
+  cursor: pointer; }
 
 /*# sourceMappingURL=style.css.map */
